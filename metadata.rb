@@ -22,7 +22,6 @@ supports 'windows'
 
 depends 'chef-sugar', '>= 3.2.0'
 depends 'chef-ingredient', '>= 0.21.4'
-depends 'git'
 depends 'homebrew'
 depends 'remote_install'
 depends 'seven_zip'
